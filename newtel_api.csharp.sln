@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newtel_api.csharp", "newtel_api.csharp\newtel_api.csharp.csproj", "{A6657E21-B9AD-429E-BBF0-D7664DC92453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6657E21-B9AD-429E-BBF0-D7664DC92453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6657E21-B9AD-429E-BBF0-D7664DC92453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6657E21-B9AD-429E-BBF0-D7664DC92453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6657E21-B9AD-429E-BBF0-D7664DC92453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

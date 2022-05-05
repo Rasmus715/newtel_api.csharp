@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/crackbargains/.dotnet/store/|arch|/|tfm|",
+      "/Users/crackbargains/.nuget/packages"
+    ]
+  }
+}

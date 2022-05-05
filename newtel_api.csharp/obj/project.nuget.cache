@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LicrP8h7m1H8GN3C/vH/e5s0yxiL8xBCrnUWK479SHH1yVz7gFmijUgomsb8H9u1rWZY/+u8xSjrESH69qfy2w==",
+  "success": true,
+  "projectFilePath": "/Users/crackbargains/RiderProjects/newtel_api.csharp/newtel_api.csharp/newtel_api.csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/crackbargains/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/crackbargains/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/crackbargains/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/crackbargains/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/crackbargains/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/crackbargains/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/crackbargains/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
