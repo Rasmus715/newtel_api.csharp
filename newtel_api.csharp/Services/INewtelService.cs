@@ -60,16 +60,20 @@ namespace newtel_api.csharp.Services
                 "application/json");
 
             var response = await client.PostAsync(route, stringContent);
+            client.Dispose();
             try
             {
                 response.EnsureSuccessStatusCode();
                 var responseString = await response.Content.ReadAsStringAsync();
                 Console.WriteLine("Newtel api response: " + responseString);
+                response.Dispose();
                 return responseString;
             }
             catch (HttpRequestException)
             {
-                throw new HttpRequestException(await response.Content.ReadAsStringAsync());
+                var body = await response.Content.ReadAsStringAsync();
+                response.Dispose();
+                throw new HttpRequestException(body);
             }
         }
     }
